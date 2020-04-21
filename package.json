@@ -100,7 +100,8 @@
       "IndexedDB",
       "KB",
       "generics",
-      "Django"
+      "Django",
+      "authenticator"
     ]
   }
 }
